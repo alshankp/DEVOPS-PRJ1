@@ -1,5 +1,5 @@
-# DEVOPS-PRJ1
-DevOps Lifecycle Implementation for Abode Software
+# DevOps Lifecycle Implementation for Abode Software
+
 In this project, I implemented the complete DevOps lifecycle for Abode Software, a company that wanted to automate its software delivery process. The goal was to streamline development, testing, and deployment, ensuring faster and more reliable releases.
 
 What I Did:
